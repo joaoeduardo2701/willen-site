@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 500px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+body {
+    background-color: #101214;
+    color: white;
+    text-align: center;
+}
